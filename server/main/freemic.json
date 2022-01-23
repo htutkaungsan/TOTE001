@@ -8,6 +8,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/01/",
 "genre" : "took,pi",
 "rating" : "4.3/5",
+"series_id": "0001",
 "review" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
 },
 {
@@ -18,6 +19,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/02/",
 "genre" : "Bo Bo, child",
 "rating" : "4.5/5",
+"series_id": "0002",
 "review" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
 နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
@@ -31,6 +33,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/03/",
 "genre" : "PAw thoot, child,family",
 "rating" : "4.3/5",
+"series_id": "0003",
 "review" : "ညီမနဲ့ အတူနေရတဲ့ ကောင်လေးတစ်ယောက်ရဲ့ ခံစားချက်တွေ...ဒါပေမယ့် ညီမက အရင်းလည်း မဟုတ် သူငယ်ချင်းရဲ့ ညီမ...ခပ်ဆိုးဆိုး ကောင်မလေးနဲ့ အတူနေရင်း တစ်နေ့ကျတော့ ......"
 },
 {
@@ -41,6 +44,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/04/",
 "genre" : "PAw thoot, child,family",
 "rating" : "4.3/5",
+"series_id": "0004",
 "review" : "de de dr dr"
 },
 
@@ -52,6 +56,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/01/",
 "genre" : "took,pi",
 "rating" : "4.3/5",
+"series_id": "0005",
 "review" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
 },
 {
@@ -62,6 +67,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/02/",
 "genre" : "Bo Bo, child",
 "rating" : "4.5/5",
+"series_id": "0006",
 "review" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
 နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
@@ -75,6 +81,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/03/",
 "genre" : "PAw thoot, child,family",
 "rating" : "4.3/5",
+"series_id": "0007",
 "review" : "ညီမနဲ့ အတူနေရတဲ့ ကောင်လေးတစ်ယောက်ရဲ့ ခံစားချက်တွေ...ဒါပေမယ့် ညီမက အရင်းလည်း မဟုတ် သူငယ်ချင်းရဲ့ ညီမ...ခပ်ဆိုးဆိုး ကောင်မလေးနဲ့ အတူနေရင်း တစ်နေ့ကျတော့ ......"
 },
 
@@ -86,6 +93,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/01/",
 "genre" : "took,pi",
 "rating" : "4.3/5",
+"series_id": "0007",
 "review" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
 },
 {
@@ -96,6 +104,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/02/",
 "genre" : "Bo Bo, child",
 "rating" : "4.5/5",
+"series_id": "0008",
 "review" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
 နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
@@ -109,6 +118,7 @@
 "link" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/data/03/",
 "genre" : "PAw thoot, child,family",
 "rating" : "4.3/5",
+"series_id": "0009",
 "review" : "ညီမနဲ့ အတူနေရတဲ့ ကောင်လေးတစ်ယောက်ရဲ့ ခံစားချက်တွေ...ဒါပေမယ့် ညီမက အရင်းလည်း မဟုတ် သူငယ်ချင်းရဲ့ ညီမ...ခပ်ဆိုးဆိုး ကောင်မလေးနဲ့ အတူနေရင်း တစ်နေ့ကျတော့ ......"
 }
 ]
